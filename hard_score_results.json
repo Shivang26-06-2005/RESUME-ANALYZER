@@ -1,0 +1,50 @@
+{
+  "final_score": 64.5,
+  "verdict": "Medium",
+  "component_scores": {
+    "skill_match": 75.0,
+    "keyword_match": 18.0,
+    "experience_match": 100.0
+  },
+  "resume_analysis": {
+    "skills_found": {
+      "programming": [
+        "python",
+        "sql"
+      ],
+      "frameworks": [],
+      "databases": [],
+      "cloud": [],
+      "tools": [
+        "github",
+        "bi"
+      ]
+    },
+    "keywords_count": 50,
+    "experience_years": [],
+    "total_skills": 4
+  },
+  "jd_analysis": {
+    "skills_required": {
+      "programming": [
+        "python",
+        "sql"
+      ],
+      "frameworks": [],
+      "databases": [],
+      "cloud": [],
+      "tools": [
+        "tableau",
+        "bi"
+      ]
+    },
+    "keywords_count": 50,
+    "experience_required": [],
+    "total_skills": 4
+  },
+  "missing_skills": {
+    "tools": [
+      "tableau"
+    ]
+  }
+}
